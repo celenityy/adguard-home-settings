@@ -192,7 +192,7 @@ You could also consider, depending on your preference:
 I would recommending adding the following here:
 
 * ⭐️ Magnesium1062's Whitelist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/whitelist.txt`
-* ⭐️ URL Shorteners: `https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list`
+* ⭐️ HaGeZi's URL Shorteners: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt`
 
 # Blocked services
 
