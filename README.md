@@ -37,6 +37,7 @@ I would strongly recommend setting this to be [Quad9](https://www.quad9.net/) fo
 Therefore, I would recommend setting this box to:
 
 `https://dns.quad9.net/dns-query`
+
 `tls://dns.quad9.net`
 
 Make sure no other entries are present, so that Quad9 is actually enforced.
@@ -48,8 +49,11 @@ Make sure no other entries are present, so that Quad9 is actually enforced.
 **Bootstrap DNS servers** -> Remove any entries that are already present, and set this box to the following for Quad9:
 
 `9.9.9.9`
+
 `149.112.112.112`
+
 `2620:fe::fe`
+
 `2620:fe::9`
 
 You can now select **Test upstreams** to ensure that you configured this correctly, and then don't forget to select **Apply**.
