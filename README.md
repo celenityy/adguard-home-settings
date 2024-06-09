@@ -191,7 +191,7 @@ You could also consider, depending on your preference:
 
 I would recommending adding the following here:
 
-* ⭐️ Magnesium1062's Personal Whitelist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/whitelist.txt`
+* ⭐️ Magnesium1062's Whitelist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/whitelist.txt`
 * ⭐️ URL Shorteners: `https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list`
 
 # Blocked services
