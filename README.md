@@ -147,7 +147,15 @@ I would additionally recommend adding the following lists:
 * ⭐️ hBlock: `https://hblock.molinero.dev/hosts_adblock.txt`
 * ⭐️ hostsVN: `https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts`
 * ⭐️ KADhosts: `https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt`
-* ⭐️ Mangnesium1062's Mega Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/mega.txt`
+* ⭐️ Magnesium1062's Apple Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/apple.txt`
+* ⭐️ Magnesium1062's Brave Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/brave.txt`
+* ⭐️ Magnesium1062's Data Brokers Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/data-brokers.txt`
+* ⭐️ Magnesium1062's Google Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/google.txt`
+* ⭐️ Magnesium1062's Microsoft Blocklist: https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/microsoft.txt
+* ⭐️ Magnesium1062's Mozilla Blocklist: https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/mozilla.txt
+* ⭐️ Magnesium1062's Mozilla Blocklist (IPs): https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/mozilla-ips.txt
+* ⭐️ Magnesium1062's Roblox Blocklist: https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/roblox.txt
+* ⭐️ Magnesium1062's Stalkerware Blocklist: https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/stalkerware.txt
 * ⭐️ Maltrail Malware Domains: `https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt`
 * ⭐️ NSA Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/nsablocklist/hosts`
 * ⭐️ Prigent-Ads: `https://v.firebog.net/hosts/Prigent-Ads.txt`
@@ -166,7 +174,6 @@ I would additionally recommend adding the following lists:
 Additionally, if you're fine with a little breakage, I would highly recommend:
 
 * ⭐️ 1Hosts (Pro): `https://o0.pages.dev/Pro/adblock.txt`
-* ⭐️ DeveloperDan's Tracking Aggressive: `https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt`
 * ⭐️ HaGeZi's Encrypted DNS Servers - IPs: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-ips.txt`
 
 It might seem like a lot, but these are carefully picked high quality lists with strong coverage, and it doesn't really hurt to use multiple like this.
@@ -174,7 +181,7 @@ It might seem like a lot, but these are carefully picked high quality lists with
 You could also consider, depending on your preference:
 
 * ⭐️ DeveloperDan's AMP Blocklist: `https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt` - Blocks [AMP](https://brave.com/privacy-updates/18-de-amp/#why-is-amp-harmful) websites
-* ⭐️ Mangesium1062's DRM Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/drm.txt` - Blocks websites associated with [DRM](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next) technology/its provisioning 
+* ⭐️ Magnesium1062's DRM Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/drm.txt` - Blocks websites associated with [DRM](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next) technology/its provisioning 
 
 # DNS allowlists
 
