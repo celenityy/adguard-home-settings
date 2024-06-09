@@ -197,3 +197,47 @@ I would recommending adding the following here:
 # Blocked services
 
 You should add in here any services you don't use or care about. For instance, I usually block `Facebook`, `Instagram`, `LinkedIn`, `TikTok`, & `WhatsApp`, as I don't use or care about any Facebook, LinkedIn, or TikTok services, and I don't want to connect to or be tracked by them.
+
+# Custom filtering rules 
+
+While being nice from a usability perspective, HaGeZi's Referral Allowlist and the AdGuard DNS filter list do allow some questionable ad/tracking domains we don't want unblocked. I would recommend adding the following to your filtering rules:
+
+`||adservice.google.*^$important`
+
+`||adsterra.com^$important`
+
+`||amplitude.com^$important`
+
+`||analytics.edgekey.net^$important`
+
+`||analytics.twitter.com^$important`
+
+`||app.adjust.*^$important`
+
+`||app.*.adjust.com^$important`
+
+`||app.appsflyer.com^$important`
+
+`||doubleclick.net^$important`
+
+`||googleadservices.com^$important`
+
+`||guce.advertising.com^$important`
+
+`||metric.gstatic.com^$important`
+
+`||mmstat.com^$important`
+
+`||statcounter.com^$important`
+
+Now select **Apply**.
+
+# Additional recommendations
+
+* Use a privacy-respecting browser like [Firefox](https://www.mozilla.org/firefox/).
+
+* Use a content blocking extension like [uBlock Origin](https://github.com/gorhill/uBlock).
+
+* Enable Safe Browsing in your browser if possible and if it's not done in a privacy-invasive way. (You should use i.e. [Google Safe Browsing on "Standard" Mode](https://safebrowsing.google.com/), [Firefox's Safe Browsing](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [Brave's Safe Browsing](https://brave.com/privacy/browser/#safe-browsing), & [Safari's Fraudulent Website Warning](https://www.apple.com/legal/privacy/data/en/safari/), you should avoid most other options i.e. [Google Safe Browsing on "Enhanced" Mode](https://safebrowsing.google.com/), [Microsoft SmartScreen](https://learn.microsoft.com/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/), & [Opera Sitecheck](https://blogs.opera.com/security/2021/01/making-browsing-safe-from-phishing/)).
+
+* Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://en.wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), on Android, you can use [Hypatia](https://f-droid.org/packages/us.spotco.malwarescanner/), and on Linux, you can use [ClamAV](https://www.clamav.net/). NOTE: You should install Hypatia through the [DivestOS Official Repo](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) instead of F-Droid's main repo, as it will allow you to receive quicker updates directly from the developer. It's also recommended to use [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/) as your F-Droid client of choice.
