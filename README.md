@@ -158,15 +158,23 @@ I would additionally recommend adding the following lists:
 
 * ⭐️ anudeepND's Blacklist: `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt`
 
-* ⭐️ Blocklist Project - Ads: `https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt`
+* ⭐️ Blocklist Project - Abuse: `https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt`
 
-* ⭐️ Blocklist Project - Crypto: `https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt`
+* ⭐️ Blocklist Project - Ads: `https://blocklistproject.github.io/Lists/adguard/ads-ags.txt`
 
-* ⭐️ Blocklist Project - Fraud: `https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt`
+* ⭐️ Blocklist Project - Crypto: `https://blocklistproject.github.io/Lists/adguard/crypto-ags.txt`
 
-* ⭐️ Blocklist Project - Malware: `https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt`
+* ⭐️ Blocklist Project - Fraud: `https://blocklistproject.github.io/Lists/adguard/fraud-ags.txt`
 
-* ⭐️ Blocklist Project - Phishing: `https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt`
+* ⭐️ Blocklist Project - Malware: `https://blocklistproject.github.io/Lists/adguard/malware-ags.txt`
+
+* ⭐️ Blocklist Project - Phishing: `https://blocklistproject.github.io/Lists/adguard/phishing-ags.txt`
+
+* ⭐️ Blocklist Project - Ransomware: `https://blocklistproject.github.io/Lists/adguard/ransomware-ags.txt`
+
+* ⭐️ Blocklist Project - Scam: `https://blocklistproject.github.io/Lists/adguard/scam-ags.txt`
+
+* ⭐️ Blocklist Project - Tracking: `https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt`
 
 * ⭐️ CAMELEON: `https://sysctl.org/cameleon/hosts`
 
