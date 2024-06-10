@@ -6,7 +6,7 @@ My recommendations for the ultimate AdGuard Home Configuration :)
 
 **Block domains using filters and hosts files** -> ✅
 
-**Filter update interval** -> `1 hour` *(You can set this to `12` hours if this causes you any issues)*
+**Filter update interval** -> `1 hour` *(You can set this to `12 hours` if it causes you any issues)*
 
 **Use AdGuard browsing security web service** -> ❌ *(See `DNS settings` below)*
 
