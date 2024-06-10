@@ -188,7 +188,7 @@ I would additionally recommend adding the following lists:
 
 * ⭐️ HaGeZi's Encrypted DNS Servers: `https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh.txt`
 
-* ⭐️ HaGeZi/xRuffKez's Newly Registered Domains (14 days): `https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrds.10.txt`
+* ⭐️ HaGeZi/xRuffKez's Newly Registered Domains (14 days): `https://raw.githubusercontent.com/xRuffKez/NRD/main/nrd-14day_adblock.txt`
 
 * ⭐️ HaGeZi's Threat Intelligence Feeds - IPs: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt`
 
