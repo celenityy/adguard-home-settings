@@ -2,6 +2,8 @@
 
 My recommendations for the ultimate AdGuard Home Configuration :)
 
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/adguard-home-settings), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/adguard-home-settings).
+
 # General settings
 
 **Block domains using filters and hosts files** -> ✅
@@ -158,6 +160,8 @@ I would additionally recommend adding the following lists:
 
 * ⭐️ anudeepND's Blacklist: `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt`
 
+* ⭐️ My BadBlock: `https://codeberg.org/Magnesium1062/BadBlock/raw/branch/main/abp/badblock.txt`
+
 * ⭐️ Blocklist Project - Abuse: `https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt`
 
 * ⭐️ Blocklist Project - Ads: `https://blocklistproject.github.io/Lists/adguard/ads-ags.txt`
@@ -206,27 +210,7 @@ I would additionally recommend adding the following lists:
 
 * ⭐️ KADhosts: `https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt`
 
-* ⭐️ Magnesium1062's Apple Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/apple.txt`
-
-* ⭐️ Magnesium1062's Brave Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/brave.txt`
-
-* ⭐️ Magnesium1062's Data Brokers Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/data-brokers.txt`
-
-* ⭐️ Magnesium1062's Google Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/google.txt`
-
-* ⭐️ Magnesium1062's Microsoft Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/microsoft.txt`
-
-* ⭐️ Magnesium1062's Mozilla Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/mozilla.txt`
-
-* ⭐️ Magnesium1062's Mozilla Blocklist (IPs): `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/mozilla-ips.txt`
-
-* ⭐️ Magnesium1062's Roblox Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/roblox.txt`
-
-* ⭐️ Magnesium1062's Stalkerware Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/stalkerware.txt`
-
 * ⭐️ Maltrail Malware Domains: `https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt`
-
-* ⭐️ NSA Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/nsablocklist/hosts`
 
 * ⭐️ Prigent-Ads: `https://v.firebog.net/hosts/Prigent-Ads.txt`
 
@@ -256,6 +240,8 @@ Additionally, if you're fine with a little breakage, I would highly recommend:
 
 * 1Hosts **(Pro)**: `https://o0.pages.dev/Pro/adblock.txt`
 
+* My BadBlock **+** instead of BadBlock: `https://codeberg.org/Magnesium1062/BadBlock/raw/branch/main/abp/badblock_plus.txt`
+
 * HaGeZi's Encrypted DNS Servers - IPs: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-ips.txt`
 
 It might seem like a lot, but these are carefully picked high quality lists with strong coverage, and it doesn't really hurt to use multiple like this.
@@ -264,13 +250,13 @@ You could also consider, depending on your preference:
 
 * DeveloperDan's AMP Blocklist: `https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt` - Blocks [AMP](https://brave.com/privacy-updates/18-de-amp/#why-is-amp-harmful) websites
 
-* Magnesium1062's DRM Blocklist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/drm.txt` - Blocks websites associated with [DRM](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next) technology/its provisioning 
+* BadBlock - DRM: `https://codeberg.org/Magnesium1062/BadBlock/raw/branch/main/abp/drm.txt` - Blocks websites associated with [DRM](https://www.eff.org/deeplinks/2017/10/drms-dead-canary-how-we-just-lost-web-what-we-learned-it-and-what-we-need-do-next) technology/its provisioning 
 
 # DNS allowlists
 
 I would recommending adding the following here:
 
-* ⭐️ Magnesium1062's Whitelist: `https://codeberg.org/Magnesium1062/blocklists/raw/branch/main/whitelist.txt`
+* ⭐️ BadBlock Whitelist: `https://codeberg.org/Magnesium1062/BadBlock/raw/branch/main/whitelist.txt`
 
 * ⭐️ HaGeZi's URL Shorteners: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt`
 
@@ -344,8 +330,8 @@ Now select **Apply**.
 
 * Use a privacy-respecting browser like [Firefox](https://www.mozilla.org/firefox/).
 
-* Use a content blocking extension like [uBlock Origin](https://github.com/gorhill/uBlock).
+* Use a content blocking extension like [uBlock Origin](https://github.com/gorhill/uBlock). *(See recommended settings [here](https://codeberg.org/Magnesium1062/ublock-origin-settings))*
 
 * Enable Safe Browsing in your browser if possible and if it's not done in a privacy-invasive way. (You should use i.e. [Google Safe Browsing on "Standard" Mode](https://safebrowsing.google.com/), [Firefox's Safe Browsing](https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work), [Brave's Safe Browsing](https://brave.com/privacy/browser/#safe-browsing), & [Safari's Fraudulent Website Warning](https://www.apple.com/legal/privacy/data/en/safari/), you should avoid most other options i.e. [Google Safe Browsing on "Enhanced" Mode](https://safebrowsing.google.com/), [Microsoft SmartScreen](https://learn.microsoft.com/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/), & [Opera Sitecheck](https://blogs.opera.com/security/2021/01/making-browsing-safe-from-phishing/)).
 
-* Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://en.wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), on Android, you can use [Hypatia](https://f-droid.org/packages/us.spotco.malwarescanner/), and on Linux, you can use [ClamAV](https://www.clamav.net/). NOTE: You should install Hypatia through the [DivestOS Official Repo](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) instead of F-Droid's main repo, as it will allow you to receive quicker updates directly from the developer. It's also recommended to use [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/) as your F-Droid client of choice.
+* Use a (reputable) anti-virus if possible. On Windows, you can use the built-in [Microsoft Defender Antivirus](https://en.wikipedia.org/wiki/Microsoft_Defender_Antivirus), on macOS, you can stick to the built-in [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web), on Android, you can use [Hypatia](https://f-droid.org/packages/us.spotco.malwarescanner/), and on Linux, you can use [ClamAV](https://www.clamav.net/). **NOTE:** You should install Hypatia through the [DivestOS Official Repo](https://divestos.org/fdroid/official/?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467) instead of F-Droid's main repo, as it will allow you to receive quicker updates directly from the developer. It's also recommended to use [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/) as your F-Droid client of choice.
