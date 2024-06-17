@@ -2,7 +2,7 @@
 
 My recommendations for the ultimate AdGuard Home Configuration :)
 
-For AdGuard DNS, see [here](https://codeberg.org/Magnesium1062/adguard-dns-settings).
+*For AdGuard DNS, see [here](https://codeberg.org/Magnesium1062/adguard-dns-settings)*.
 
 **NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/adguard-home-settings), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/adguard-home-settings).
 
