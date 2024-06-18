@@ -46,6 +46,8 @@ Therefore, I would recommend setting this box to:
 
 Make sure no other entries are present, so that Quad9 is actually enforced.
 
+<br>
+
 **Parallel requests** -> ✅
 
 **Fallback DNS servers** -> Leave empty
@@ -61,6 +63,8 @@ Make sure no other entries are present, so that Quad9 is actually enforced.
 `2620:fe::9`
 
 You can now select **Test upstreams** to ensure that you configured this correctly, and then don't forget to select **Apply**.
+
+<br>
 
 **Rate limit** -> `0`
 
@@ -78,7 +82,9 @@ Select **Save**.
 
 This is out of scope for this guide, I'll probably make a separate guide dedicated just to setting this up. In the meantime, [here](https://github.com/AdguardTeam/AdGuardHome/wiki/Encryption/)'s AdGuard's documentation on this. I would recommend configuring this if possible.
 
-(Following is under `Filters`)
+<br>
+
+**The following settings are under `Filters`**
 
 # DNS blocklists
 
@@ -88,7 +94,7 @@ Despite popular opinion, due to the reasons WaLLy3K has listed [here](https://gi
 
 I would generally recommend using the following built-in lists:
 
-* ⭐️ `AdAway Default Blocklist` *(Appears to be included, but not checked/enabled by default or listed on the selection screen here)*
+* ⭐️ `AdAway Default Blocklist` *(Appears to be included, but not checked/enabled by default or even listed on the selection screen here)*
 
 **General**
 
@@ -108,7 +114,7 @@ I would generally recommend using the following built-in lists:
 
 * ⭐️ `Steven Black's List`
 
-If you're fine with a little breakage, I would highly recommend using `HaGeZi's **Ultimate** Blocklist` instead of `HaGeZi's **Pro++** Blocklist`.
+If you're fine with a little breakage, I would highly recommend using `HaGeZi's `**Ultimate**` Blocklist` instead of `HaGeZi's` **Pro++**` Blocklist`.
 
 **Other**
 
@@ -240,7 +246,7 @@ I would additionally recommend adding the following lists:
 
 Additionally, if you're fine with a little breakage, I would highly recommend:
 
-* 1Hosts **(Pro)**: `https://o0.pages.dev/Pro/adblock.txt`
+* 1Hosts (Pro): `https://o0.pages.dev/Pro/adblock.txt`
 
 * My BadBlock **+** instead of BadBlock: `https://codeberg.org/Magnesium1062/BadBlock/raw/branch/main/abp/badblock_plus.txt`
 
