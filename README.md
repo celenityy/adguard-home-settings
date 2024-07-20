@@ -170,24 +170,6 @@ I would additionally recommend adding the following lists:
 
 * ⭐️ My BadBlock: `https://codeberg.org/Magnesium1062/BadBlock/raw/branch/main/abp/badblock.txt`
 
-* ⭐️ Blocklist Project - Abuse: `https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt`
-
-* ⭐️ Blocklist Project - Ads: `https://blocklistproject.github.io/Lists/adguard/ads-ags.txt`
-
-* ⭐️ Blocklist Project - Crypto: `https://blocklistproject.github.io/Lists/adguard/crypto-ags.txt`
-
-* ⭐️ Blocklist Project - Fraud: `https://blocklistproject.github.io/Lists/adguard/fraud-ags.txt`
-
-* ⭐️ Blocklist Project - Malware: `https://blocklistproject.github.io/Lists/adguard/malware-ags.txt`
-
-* ⭐️ Blocklist Project - Phishing: `https://blocklistproject.github.io/Lists/adguard/phishing-ags.txt`
-
-* ⭐️ Blocklist Project - Ransomware: `https://blocklistproject.github.io/Lists/adguard/ransomware-ags.txt`
-
-* ⭐️ Blocklist Project - Scam: `https://blocklistproject.github.io/Lists/adguard/scam-ags.txt`
-
-* ⭐️ Blocklist Project - Tracking: `https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt`
-
 * ⭐️ CAMELEON: `https://sysctl.org/cameleon/hosts`
 
 * ⭐️ CoinBlocker: `https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser`
@@ -203,6 +185,8 @@ I would additionally recommend adding the following lists:
 * ⭐️ EasyPrivacy: `https://v.firebog.net/hosts/Easyprivacy.txt`
 
 * ⭐️ Feudo Tracker Abuse: `https://feodotracker.abuse.ch/downloads/ipblocklist.txt`
+
+* ⭐️ FMHY Unsafe Sites: `https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt`
 
 * ⭐️ FrogEye First Party Trackers: `https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt`
 
