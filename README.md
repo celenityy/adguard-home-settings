@@ -320,7 +320,7 @@ Now select **Apply**.
 
 # Additional recommendations
 
-* Use a privacy-respecting browser like [Firefox](https://www.mozilla.org/firefox/) with a user.js like [Arkenfox](https://github.com/arkenfox/user.js).
+* Use a privacy-respecting browser like [Firefox](https://www.mozilla.org/firefox/) with my [Phoenix](https://phoenix.celenity.dev).
 
 * Use a content blocking extension like [uBlock Origin](https://github.com/gorhill/uBlock). *(See recommended settings [here](https://codeberg.org/celenity/ublock-origin-settings))*
 
